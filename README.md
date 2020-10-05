@@ -5,10 +5,20 @@ and Technology in 2020.
 
 ### Notebook 1
 
+Data exploration, normalization, kNN classifier, cross validation, augmentation.
+
 ### Notebook 2
+
+Feature selection (SFS, RFE), PCA.
 
 ### Notebook 3
 
+SVM.
+
 ### Notebook 4
 
+Ensemble learning, t-SNE, bagging, Random Forest, AdaBoost.
+
 ### Notebook 5
+
+Clustering, k-means, mean-shift, DBSCAN, Agglomerative Hierarchical Clustering, Gaussian Mixture.
